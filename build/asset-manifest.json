@@ -1,14 +1,5 @@
 {
-  "main.css": "/lahughesmusic/mdatabase/static/css/main.fb84b8c3.chunk.css",
-  "main.js": "/lahughesmusic/mdatabase/static/js/main.4f21270e.chunk.js",
-  "main.js.map": "/lahughesmusic/mdatabase/static/js/main.4f21270e.chunk.js.map",
-  "static/js/1.4a34e45d.chunk.js": "/lahughesmusic/mdatabase/static/js/1.4a34e45d.chunk.js",
-  "static/js/1.4a34e45d.chunk.js.map": "/lahughesmusic/mdatabase/static/js/1.4a34e45d.chunk.js.map",
-  "runtime~main.js": "/lahughesmusic/mdatabase/static/js/runtime~main.ef5b84eb.js",
-  "runtime~main.js.map": "/lahughesmusic/mdatabase/static/js/runtime~main.ef5b84eb.js.map",
-  "static/media/logo.svg": "/lahughesmusic/mdatabase/static/media/logo.5d5d9eef.svg",
-  "static/css/main.fb84b8c3.chunk.css.map": "/lahughesmusic/mdatabase/static/css/main.fb84b8c3.chunk.css.map",
-  "index.html": "/lahughesmusic/mdatabase/index.html",
-  "precache-manifest.f037dbfb998c50f70127698a8be1a802.js": "/lahughesmusic/mdatabase/precache-manifest.f037dbfb998c50f70127698a8be1a802.js",
-  "service-worker.js": "/lahughesmusic/mdatabase/service-worker.js"
+  "main.js": "static/js/main.6bfdd0ee.js",
+  "main.js.map": "static/js/main.6bfdd0ee.js.map",
+  "static/media/logo.svg": "static/media/logo.5d5d9eef.svg"
 }

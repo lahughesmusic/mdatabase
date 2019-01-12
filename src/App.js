@@ -7,6 +7,7 @@ class App extends Component {
     return (
       <div className="App">
         <a href="../resources/100_Years.pdf" download>
+          <img href="https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwigyOa4yeTfAhUSXa0KHbsaD7gQjRx6BAgBEAU&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DJilHZ_DdBYg&psig=AOvVaw30CnqLJG5xeEm4HoghZmOz&ust=1547256412452188" />
           <h1>100 Years</h1>
         </a>
         <a href="../resources/Barcarolle.pdf" download>
